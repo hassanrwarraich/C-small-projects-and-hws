@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1542736236 source:c:\users\user12\desktop\homework\hw1parta\src\simplemac.cpp
+	<iostream>
+	"SimpleMAC.h"
+
+1542736236 c:\users\user12\desktop\homework\hw1parta\include\simplemac.h
+	<string>
+	<iostream>
+	"SimpleMusicAlbum.h"
+
+1542736236 c:\users\user12\desktop\homework\hw1parta\include\simplemusicalbum.h
+	<string>
+	<iostream>
+
+1542736236 source:c:\users\user12\desktop\homework\hw1parta\src\simplemusicalbum.cpp
+	<iostream>
+	"SimpleMusicAlbum.h"
+

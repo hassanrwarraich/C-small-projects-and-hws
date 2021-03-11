@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1545719615 source:c:\users\user12\desktop\hw3\hw3\main.cpp
+	<iostream>
+	"SimplePerson.h"
+	"SimplePhoneBook.h"
+
+1544905548 source:c:\users\user12\desktop\hw3\hw3\src\simpleperson.cpp
+	"SimplePerson.h"
+	<iostream>
+
+1544905506 c:\users\user12\desktop\hw3\hw3\include\simpleperson.h
+	<string>
+
+1545719560 source:c:\users\user12\desktop\hw3\hw3\src\simplephonebook.cpp
+	"SimplePerson.h"
+	"SimplePhoneBook.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+
+1544905588 c:\users\user12\desktop\hw3\hw3\include\simplephonebook.h
+	<string>
+	"SimplePerson.h"
+
+1544905357 c:\users\user12\desktop\hw3\hw3\simpleperson.h
+	<string>
+
+1545719615 source:f:\hassan\old subjects\cs201 fundamental structures of comp sc\homework\hw3\hw3\main.cpp
+	<iostream>
+	"SimplePerson.h"
+	"SimplePhoneBook.h"
+
+1544905357 f:\hassan\old subjects\cs201 fundamental structures of comp sc\homework\hw3\hw3\simpleperson.h
+	<string>
+
+1544905588 f:\hassan\old subjects\cs201 fundamental structures of comp sc\homework\hw3\hw3\include\simplephonebook.h
+	<string>
+	"SimplePerson.h"
+
+1544905506 f:\hassan\old subjects\cs201 fundamental structures of comp sc\homework\hw3\hw3\include\simpleperson.h
+	<string>
+
+1544905548 source:f:\hassan\old subjects\cs201 fundamental structures of comp sc\homework\hw3\hw3\src\simpleperson.cpp
+	"SimplePerson.h"
+	<iostream>
+
+1545851801 source:f:\hassan\old subjects\cs201 fundamental structures of comp sc\homework\hw3\hw3\src\simplephonebook.cpp
+	"SimplePerson.h"
+	"SimplePhoneBook.h"
+	<iostream>
+	<algorithm>
+	<cctype>
+

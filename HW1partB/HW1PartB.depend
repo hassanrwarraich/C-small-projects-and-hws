@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1542759619 source:c:\users\user12\desktop\homework\hw1partb\src\mac.cpp
+	<string>
+	<iostream>
+	"MusicAlbum.h"
+	"MAC.h"
+
+1542740370 c:\users\user12\desktop\homework\hw1partb\include\musicalbum.h
+	<string>
+	"Song.h"
+
+1542740370 c:\users\user12\desktop\homework\hw1partb\include\song.h
+	<string>
+
+1542740370 c:\users\user12\desktop\homework\hw1partb\include\mac.h
+	<string>
+	"MusicAlbum.h"
+
+1542791066 source:c:\users\user12\desktop\homework\hw1partb\src\musicalbum.cpp
+	<string>
+	<iostream>
+	"Song.h"
+	"MusicAlbum.h"
+
+1542747641 source:c:\users\user12\desktop\homework\hw1partb\src\song.cpp
+	<string>
+	<iostream>
+	"Song.h"
+
+1542759661 source:c:\users\user12\desktop\homework\hw1partb\src\test.cpp
+	<iostream>
+	"MusicAlbum.h"
+	"MAC.h"
+
+1542740370 c:\users\user12\desktop\homework\hw1partb\src\song.h
+	<string>
+
+1542740370 c:\users\user12\desktop\homework\hw1partb\src\musicalbum.h
+	<string>
+	"Song.h"
+
+1542740370 c:\users\user12\desktop\homework\hw1partb\src\mac.h
+	<string>
+	"MusicAlbum.h"
+

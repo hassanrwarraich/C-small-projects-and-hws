@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1544998717 source:c:\users\user12\desktop\hw3\hw3partb\src\phone.cpp
+	<iostream>
+	"Phone.h"
+
+1544991429 c:\users\user12\desktop\hw3\hw3partb\include\phone.h
+
+1545715647 source:c:\users\user12\desktop\hw3\hw3partb\src\person.cpp
+	<iostream>
+	"Person.h"
+
+1545716772 c:\users\user12\desktop\hw3\hw3partb\include\person.h
+	<string>
+	"Phone.h"
+
+1545715206 source:c:\users\user12\desktop\hw3\hw3partb\maining.cpp
+	<iostream>
+	"PhoneBook.h"
+	"Person.h"
+	"Phone.h"
+
+1544999236 c:\users\user12\desktop\hw3\hw3partb\include\phonebook.h
+	<string>
+	"Person.h"
+
+1545715130 source:c:\users\user12\desktop\hw3\hw3partb\src\phonebook.cpp
+	"PhoneBook.h"
+	"Phone.h"
+	<string>
+	<iostream>
+	<algorithm>
+	<cctype>
+

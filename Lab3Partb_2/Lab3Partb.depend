@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1555692974 source:f:\hassan\cs 202\hw3\lab3partb\src\maxheap.cpp
+	"MaxHeap.h"
+
+1555692495 f:\hassan\cs 202\hw3\lab3partb\include\maxheap.h
+
+1555692974 source:f:\hassan\cs 202\hw3\lab3partb\src\minheap.cpp
+	"MinHeap.h"
+
+1555692974 f:\hassan\cs 202\hw3\lab3partb\include\minheap.h
+
+1555614925 source:f:\hassan\cs 202\hw3\lab3partb\src\medianheap.cpp
+	"MedianHeap.h"
+	"MinHeap.h"
+	"MaxHeap.h"
+
+1555692974 f:\hassan\cs 202\hw3\lab3partb\include\medianheap.h
+	"MinHeap.h"
+	"MaxHeap.h"
+
+1555615525 source:f:\hassan\cs 202\hw3\lab3partb\src\main.cpp
+	<iostream>
+	"MedianHeap.h"
+

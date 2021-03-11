@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1555687429 source:f:\hassan\cs 202\hw3\lab3newpartc\src\huffmanheap.cpp
+	"HuffmanHeap.h"
+	<iostream>
+
+1555625563 f:\hassan\cs 202\hw3\lab3newpartc\include\huffmanheap.h
+
+1555687708 source:f:\hassan\cs 202\hw3\lab3newpartc\src\huffmancode.cpp
+	"HuffmanCode.h"
+	<iostream>
+
+1555677176 f:\hassan\cs 202\hw3\lab3newpartc\include\huffmancode.h
+	"HuffmanQueue.h"
+
+1555685469 f:\hassan\cs 202\hw3\lab3newpartc\include\huffmanqueue.h
+	"HuffmanHeap.h"
+
+1555687759 source:f:\hassan\cs 202\hw3\lab3newpartc\src\huffmanqueue.cpp
+	"HuffmanQueue.h"
+	<iostream>
+
+1555685806 source:f:\hassan\cs 202\hw3\lab3newpartc\main.cpp
+	<iostream>
+	"HuffmanCode.h"
+	<fstream>
+	<sstream>
+

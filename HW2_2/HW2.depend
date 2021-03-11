@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1553294095 source:f:\hassan\cs 202\hw2\hw2\src\bst.cpp
+	"BST.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"BSTNode.h"
+
+1553294055 f:\hassan\cs 202\hw2\hw2\include\bst.h
+	<iostream>
+	"BSTNode.h"
+
+1553294055 source:f:\hassan\cs 202\hw2\hw2\src\bstnode.cpp
+	"BSTNode.h"
+	<iostream>
+
+1553294055 f:\hassan\cs 202\hw2\hw2\include\bstnode.h
+	<iostream>
+
+1553293858 source:f:\hassan\cs 202\hw2\hw2\main.cpp
+	"BST.h"
+	<stdio.h>
+	<stdlib.h>
+	<iostream>
+	"BSTNode.h"
+
